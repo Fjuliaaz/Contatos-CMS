@@ -1,0 +1,22 @@
+/* body{
+    background-color: #191919;
+} */
+
+.botao-rosaEscuro {
+    background-color: #bb769e;
+    color: white;
+}
+
+.botao-rosa {
+    background-color: #ac3279;
+    color: white;
+}
+
+
+
+
+h1{
+    background-color: #bb769e;
+    color: white;
+    border-radius: 32px;
+}
